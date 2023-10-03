@@ -1,4 +1,4 @@
-# first_project
+# todo-list_backend
 
 ## Project setup
 ```
